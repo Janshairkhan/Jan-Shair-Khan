@@ -35,7 +35,7 @@ Experienced BI & Data Analyst with 3+ years of experience delivering decision-su
 ---
 
 ### 💼 Professional Snapshot
-* **BI / Data Analyst** at *Sabre Travel Network* (2023 – Present)
+* **BI / Data Analyst** at *Sabre Travel Network* (2023 – 2026)
 * **Power BI , SQL & Advanced Excel Instructor** at *Baitussalam Institute* (2025 – Present)
 * **MCS in Computer Science** – *University of Karachi*
 
